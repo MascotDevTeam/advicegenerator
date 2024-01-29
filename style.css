@@ -1,0 +1,35 @@
+body{
+    background-color: darkslategrey;
+}
+
+main{
+    width: 30%;
+    margin: 200px auto;
+    background-color: white;
+}
+
+main div {
+
+
+}
+
+main h4{
+    width: 100px;
+    margin: 12px auto;
+}
+
+main p{
+    width: 300px;
+    margin: 5px auto;
+    text-align: center;
+}
+
+main img{
+    display: block;
+}
+
+main button{
+    width: 60px;
+    display: block;
+    margin: 10px auto;
+}
