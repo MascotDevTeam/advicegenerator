@@ -4,8 +4,12 @@ body{
 
 main{
     width: 30%;
+    height: 300px;
     margin: 200px auto;
+    padding:1% 0px;
+    border-radius: 10px;
     background-color: white;
+
 }
 
 main div {
@@ -19,17 +23,26 @@ main h4{
 }
 
 main p{
-    width: 300px;
-    margin: 5px auto;
+    width: 70%;
+    height: 130px;
+    margin: 40px auto;
+    font-size: 30px;
     text-align: center;
 }
 
 main img{
     display: block;
+    width: 70%;
+    margin: 0px auto;
 }
 
 main button{
-    width: 60px;
+    width: 54px;
+    height: 54px;
     display: block;
-    margin: 10px auto;
+    margin: 40px auto;
+    border: 2px solid darkslategrey;
+    border-radius: 50px;
+    background-color: limegreen;
+    cursor: pointer;
 }
